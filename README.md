@@ -6,11 +6,11 @@
  针对移动端的城市选择组件<br/>
  可以使用拼音或关键字进行检索，也可以在右侧检索栏快速滑动</br>
  ### 本地构建方法：
- `git clone https://github.com/jwentao/CitySelector.git`   
- `cd CitySelector`   
- `npm install`  
- `npm run dev`<br/>
-
+ ```git clone https://github.com/jwentao/CitySelector.git   
+ cd CitySelector   
+ npm install  
+ npm run dev
+ ```  
  欢迎大家提issues呀<br/>
  如有需要可e-mail:jin_wentao@qq.com
     
